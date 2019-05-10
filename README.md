@@ -1,6 +1,6 @@
 # Project Name
 
-### [Demo](https://link-to-github-pages.com)
+### [Demo](https://maximkacmm.github.io/UBEReats/src/index.html)
 
 ### Description
 
