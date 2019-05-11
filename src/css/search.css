@@ -1,0 +1,21 @@
+.search {
+  margin-top: 30px;
+  width: 100%;
+}
+
+.search__form {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--border-3);
+}
+
+.search__form-input {
+  border: none;
+  width: 100%;
+}
+
+.search__label {
+  width: 100%;
+}

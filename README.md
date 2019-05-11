@@ -1,10 +1,11 @@
-# Project Name
+# UBER EATS
 
 ### [Demo](https://maximkacmm.github.io/UBEReats/src/index.html)
 
 ### Description
 
-Tell about your project
+
+Food delivery from the restaurant
 
 ### Technologies are used
 

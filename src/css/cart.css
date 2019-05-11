@@ -1,0 +1,40 @@
+.cart-a {
+  text-decoration: none;
+}
+
+.cart__img {
+  width: 100%;
+}
+
+.cart__text {
+  max-width: 100%;
+}
+
+.text-h2 {
+  font-family: var(--font_roboto);
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-2);
+}
+
+.text-span {
+  display: block;
+  font-family: var(--font_roboto);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--color-1);
+}
+
+.text-span:before {
+  content: "₴₴ •";
+}
+
+.text-p {
+  font-family: var(--font_roboto);
+  font-size: 13px;
+  line-height: 21px;
+  color: var(--color-2);
+}

@@ -1,0 +1,78 @@
+.restaurant-content {
+  padding-top: 56px;
+  padding-bottom: 80px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.restaurant-content-h2 {
+  width: 100%;
+  font-family: var(--ropboto);
+  font-size: 22px;
+  line-height: 34px;
+  color: var(--color-2);
+}
+
+.restoran-cart {
+  width: 49%;
+  border: 1px solid var(--border-4);
+  border-radius: 2px;
+}
+
+.restoran-cart-a {
+  text-decoration: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.restoran-cart-a:hover {
+  background-color: var(--background-7);
+}
+
+.restore-cart-wrapper {
+  margin-bottom: 49px;
+}
+
+.restoran-cart__description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.restoran-cart-h3 {
+  font-family: var(--ropboto);
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-2);
+  margin: 0;
+}
+
+.restoran-cart-p {
+  font-family: var(--ropboto);
+  font-size: 13px;
+  line-height: 21px;
+  color: var(--color-1);
+  margin: 0;
+}
+
+.restoran-cart-span {
+  font-family: var(--ropboto);
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 21px;
+  color: var(--color-2);
+}
+
+.restoran-cart__foto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.restoran-cart-img {
+  width: 170px;
+  height: 160px;
+}

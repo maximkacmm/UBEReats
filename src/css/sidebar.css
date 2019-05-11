@@ -1,0 +1,18 @@
+.sidebar {
+  padding: 30px 0;
+  width: 100%;
+  border-bottom: 1px solid var(--border-4);
+}
+
+.sidebar-a {
+  text-decoration: none;
+  font-family: var(--ropboto);
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--color-1);
+  margin-right: 40px;
+}
+
+.sidebar-a:active {
+  color: var(--color-4);
+}
